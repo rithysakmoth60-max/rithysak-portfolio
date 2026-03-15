@@ -68,7 +68,7 @@ function App() {
           
           <motion.p variants={fadeUp} className="text-lg text-slate-400 max-w-xl mx-auto md:mx-0 mb-10 leading-relaxed">
             I am a 21-year-old software developer and a 4th-year <span className="text-white font-bold">Software Engineering</span> student at BELTEI International University. 
-            I am currently seeking a <span className="text-white font-bold">Junior Software Developer Internship at Zando Cambodia</span> to apply my cross-platform skills in a fast-paced e-commerce environment.
+            I am currently seeking a <span className="text-white font-bold">Junior Software Developer at Zando Cambodia</span> to apply my cross-platform skills in a fast-paced e-commerce environment.
           </motion.p>
           
           <motion.div variants={fadeUp}>
